@@ -12,8 +12,10 @@ Visit http://127.0.0.1:3333/
 
 ## Sources 
 
- + https://grafikart.fr/tutoriels/adonis-decouverte-1998
+ + https://grafikart.fr/tutoriels/adonis-decouverte-1998  
+   (https://www.youtube.com/watch?v=i51olb4HBgU)
 
+```
   06:30 Moteur de template Edge
   08:30 Découverte de Lucid
   25:33 Validation des données
@@ -21,5 +23,8 @@ Visit http://127.0.0.1:3333/
   46:15 Les relations
   56:00 Authentification
   01:10:20 Upload des images
+```
 
 + https://github.com/adonisjs-community/adonis-blog-demo
++ https://dev.to/ericlecodeur/creer-un-restful-api-avec-adonisjs-5-0-incluant-l-authentification-par-token-8pe
++ ...
